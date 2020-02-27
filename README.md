@@ -1,2 +1,2 @@
 # spring-xteam-projects
-Contains all xteam projects for the Spring 2020 semester.
+x3 assignment repository for xteam story.
